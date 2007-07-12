@@ -1,10 +1,10 @@
 %define fontdir %_datadir/fonts/terminus
-%define consolefontdir %_libdir/kbd/consolefonts
+%define consolefontdir %_prefix/lib/kbd/consolefonts
 
 Summary:        Fixed width font especially for long hacking sessions
 Name:           terminus-font
 Version:        4.20
-Release:        %mkrel 3
+Release:        %mkrel 4
 License:        GPL
 Group:          System/Fonts/X11 bitmap
 URL:            http://www.is-vn.bg/hamster/jimmy-en.html
