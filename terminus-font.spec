@@ -10,7 +10,6 @@ Group:          System/Fonts/X11 bitmap
 URL:            http://www.is-vn.bg/hamster/jimmy-en.html
                 # http://www.is-vn.bg/hamster/terminus-font-4.05.tar.gz
 Source0:        %name-%version.tar.bz2
-BuildRoot:      %_tmppath/%name-buildroot
 BuildRequires:  perl mkfontdir bdftopcf
 Buildarch:      noarch
 
