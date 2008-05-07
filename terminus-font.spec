@@ -3,13 +3,12 @@
 
 Summary:        Fixed width font especially for long hacking sessions
 Name:           terminus-font
-Version:        4.20
-Release:        %mkrel 4
-License:        GPL
+Version:        4.26
+Release:        %mkrel 1
+License:        GPLv2+
 Group:          System/Fonts/X11 bitmap
 URL:            http://www.is-vn.bg/hamster/jimmy-en.html
-                # http://www.is-vn.bg/hamster/terminus-font-4.05.tar.gz
-Source0:        %name-%version.tar.bz2
+Source0:        http://www.is-vn.bg/hamster/%name-%version.tar.gz
 BuildRoot:      %_tmppath/%name-buildroot
 BuildRequires:  perl mkfontdir bdftopcf
 Buildarch:      noarch
