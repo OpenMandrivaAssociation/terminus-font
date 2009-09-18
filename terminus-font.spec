@@ -7,7 +7,7 @@ Version:        4.28
 Release:        %mkrel 1
 License:        GPLv2+
 Group:          System/Fonts/X11 bitmap
-URL:            http://www.is-vn.bg/hamster/jimmy-en.html
+URL:            http://www.is-vn.bg/hamster/
 Source0:        http://www.is-vn.bg/hamster/%name-%version.tar.gz
 BuildRoot:      %_tmppath/%name-buildroot
 BuildRequires:  perl mkfontdir bdftopcf
