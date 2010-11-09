@@ -23,13 +23,13 @@ especially for the usage in terms and the console.
 %setup -q
 
 %build
-rm -rf %{buildroot}
 ./configure \
 	--prefix=%{_prefix} \
 	--psfdir=%{consolefontdir} \
 	--x11dir=%{fontdir}
 
 %install
+rm -rf %{buildroot}
 %makeinstall_std \
 	install-psf \
 	fontdir
