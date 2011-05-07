@@ -12,6 +12,7 @@ Source0:        http://downloads.sourceforge.net/project/%{name}/%{name}-%{versi
 BuildRequires:  perl
 BuildRequires:	mkfontdir
 BuildRequires:	bdftopcf
+BuildRequires:	fontconfig
 Buildarch:      noarch
 
 %description
