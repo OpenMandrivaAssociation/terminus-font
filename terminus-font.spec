@@ -3,7 +3,7 @@
 
 Summary:        Fixed width font especially for long hacking sessions
 Name:           terminus-font
-Version:        4.34
+Version:        4.35
 Release:        %mkrel 1
 License:        GPLv2+
 Group:          System/Fonts/X11 bitmap
