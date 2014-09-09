@@ -3,12 +3,12 @@
 
 Summary:        Fixed width font especially for long hacking sessions
 Name:           terminus-font
-Version:        4.38
+Version:        4.39
 Release:        1
 License:        GPLv2+
 Group:          System/Fonts/X11 bitmap
 URL:            http://terminus-font.sourceforge.net/
-Source0:        http://downloads.sourceforge.net/project/terminus-font/terminus-font-4.38/%{name}-%{version}.tar.gz
+Source0:        http://downloads.sourceforge.net/project/terminus-font/terminus-font-4.39/%{name}-%{version}.tar.gz
 BuildRequires:  perl
 BuildRequires:	mkfontdir
 BuildRequires:	bdftopcf
