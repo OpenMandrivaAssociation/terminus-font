@@ -4,7 +4,7 @@
 Summary:        Fixed width font especially for long hacking sessions
 Name:           terminus-font
 Version:        4.39
-Release:        1
+Release:        2
 License:        GPLv2+
 Group:          System/Fonts/X11 bitmap
 URL:            http://terminus-font.sourceforge.net/
