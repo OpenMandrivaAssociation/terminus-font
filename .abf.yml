@@ -1,5 +1,6 @@
 removed_sources:
   terminus-font-4.35.tar.gz: 0cd2707c7041ae6e34f743c2401c510053e9c9cf
   terminus-font-4.38.tar.gz: 7f5d251e4b7c8c8f1b1ad9dec38f32079a79d115
-sources:
   terminus-font-4.39.tar.gz: 33cbfe321443d0a79abed148586dfd3aedd483c2
+sources:
+  terminus-font-4.46.tar.gz: 1f2c23edd81cf06540c094466087072ba1842468
