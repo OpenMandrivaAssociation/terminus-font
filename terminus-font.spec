@@ -7,7 +7,7 @@ Version:        4.48
 Release:        1
 License:        GPLv2+
 Group:          System/Fonts/X11 bitmap
-URL:            http://terminus-font.sourceforge.net/
+URL:            https://terminus-font.sourceforge.net/
 Source0:	https://netcologne.dl.sourceforge.net/project/terminus-font/%{name}-%{version}/%{name}-%{version}.tar.gz
 BuildRequires:  perl
 BuildRequires:	mkfontdir
